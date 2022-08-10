@@ -9,3 +9,22 @@ Aizenkeller/Aizenkeller is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 Pls tech me to hack on fb account 
+How to use this commond
+
+apt update
+
+apt upgrade
+
+pkg install python
+
+pkg install python2
+
+pip install mechanize
+
+pkg install git
+
+git clone http://github.com/nfs-tech-bd/FB-TARGET
+
+cd FB-TARGET
+
+python2 FB-TARGET.py
